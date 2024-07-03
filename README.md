@@ -1,4 +1,5 @@
 ## Hi there 👋
+## My name is Lisa Peterson (she/her) and I am the Fisheries Information System (FIS) program manager!
 
 <!--
 **lisapeterson-noaa/lisapeterson-noaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
